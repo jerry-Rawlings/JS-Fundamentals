@@ -11,3 +11,5 @@ function argument(params) {
   }
 }
 argument(argument2);
+argument(argument1);
+argument(argument);
